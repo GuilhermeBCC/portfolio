@@ -15,7 +15,7 @@ Versão desktop JAVA EE/ GWT (WebAPSEE 2.0)
 
 # 2014
 
-Desenvolvimento de um jogo de tabuleiro (em turnos) em JAVA SE. Este projeto foi criado durante uma disciplina de programação na universidade. Ele sofreu atualizações contantes durante minha gradução e mestrado (não defendido).
+Desenvolvimento de um jogo de tabuleiro (em turnos) em JAVA SE. Este projeto foi criado durante uma disciplina de programação na universidade. Ele sofreu atualizações constantes durante minha gradução e mestrado (não defendido).
 
 Desenvolvimento do modo Versus e utilização de Grafos para modelo dos dados - disciplina de programação e grafos
 Desenvolvimento do modo Campanha, aplicação de técnicas de desenvolvimento de Jogos - disciplina de programação 2
