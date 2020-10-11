@@ -17,7 +17,8 @@ Versão desktop JAVA EE/ GWT (WebAPSEE 2.0)
 
 Desenvolvimento de um jogo de tabuleiro (em turnos) em JAVA SE. Este projeto foi criado durante uma disciplina de programação na universidade. Ele sofreu atualizações contantes durante minha gradução e mestrado (não defendido).
 
-Utilização de Grafos e aplicação de técnicas de desenvolvimento de Jogos - disciplina de programação e grafos
+Desenvolvimento do modo Versus e utilização de Grafos para modelo dos dados - disciplina de programação e grafos
+Desenvolvimento do modo Campanha, aplicação de técnicas de desenvolvimento de Jogos - disciplina de programação 2
 Adicão de modo multiplayer (através de uma rede local) - disciplina de redes de computadores.
 
 <img src="images/wargame-entrada.png" height="200"/>
@@ -25,5 +26,9 @@ Adicão de modo multiplayer (através de uma rede local) - disciplina de redes d
 Adição de um adversário (computador) utilizando a técnica de inteligência artificial - Algoritmos Genéticos - disciplina de inteligência artificial (mestrado).
 
 <img src="images/wargame.png" height="400"/>
+
+Glima Wargame tem o código livre e está disponível em um dos meus repositórios.
+
+#2015
 
 
