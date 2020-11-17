@@ -29,6 +29,28 @@ Adição de um adversário (computador) utilizando a técnica de inteligência a
 
 Glima Wargame tem o código livre e está disponível em um dos meus repositórios.
 
-#2015
+# 2015 / 2016
+
+Trabalhei em pesquisas de técnicas e no desenvolvimento de feramentas para reconhecimento e voz.
+Entre os temas estudados.
+-Genetic Algorithms (GA), Power Spectral Density (PSD), Fast Fourier Transform (FFT), Short-time Fourier Transform (STFT), Subtractive Clustering (Agrupamento)
+
+# 2017 
+
+Iniciei meu projeto principal como um Aplicativo Nativo para Android. Também iniciei os estudos sobre Angular 2 (lançamento do produto).
+
+# 2018 / 2019 / 2020
+
+Projetos em Angular.
+
+Formulários Online - https://formulario-online.web.app/ https://formulario-online.web.app/admin
+Nuvem Acadêmica - https://www.nuvemacademica.com
+Nuvem Acadêmica Escolas - https://escolas.nuvemacademica.com
+
+Aplicativos Hibridos (Ionic Capacitor)
+Nuvem Acadêmica - https://play.google.com/store/apps/details?id=com.nuvemacademica
+Nuvem Acadêmica Escolas -https://play.google.com/store/apps/details?id=com.nuvemacademica.escolas
+
+
 
 
