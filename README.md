@@ -42,7 +42,7 @@ Iniciei meu projeto principal como um Aplicativo Nativo para Android. Também in
 # 2018 / 2019 / 2020
 
 
-## Projetos em Angular.
+## Principais projetos em Angular
 
 Formulários Online - https://formulario-online.web.app/ https://formulario-online.web.app/admin 
 
