@@ -57,29 +57,19 @@ Sub projetos
 --Drive pessoal
 --Galerias de fotos
 * Gerenciamento de turmas, cursos, disciplinas.
-* Sala de aula virtual (Turma) - 
-
-  -Fórum da turma,
-  
-  -Blog da turma,
-  
-  -Messages,
-  
-  -Gerenciamento alunos, notas e presenças,
-  
+* Sala de aula virtual (Turma)  
+  -Fórum da turma,  
+  -Blog da turma,  
+  -Messages,  
+  -Gerenciamento alunos, notas e presenças,  
   -Sistema de envio/recebimento de tarefas (aluno e professor)  
-  --Texto rico online - (Word online)
-  
-  Questionários/Provas online com controle de tempo e interação do aluno
-
+  --Texto rico online - (Word online)  
+  -Questionários/Provas online com controle de tempo e interação do aluno  
 * Drive (Gerenciamento de arquivos online)
 * Sistema de pagamentos online
-* Sistema de gerenciamento de estudos
-
-  -Implementação de técnicas como pomodoro
-
-  -Controle e planejamento de disciplinas e horas estudadas
-
+* Sistema de gerenciamento de estudos  
+  -Implementação de técnicas como pomodoro  
+  -Controle e planejamento de disciplinas e horas estudadas  
 * Sistema de controle parental - para os pais/responsáveis
 * Sistema de acompanhamento do desenvolvimento do aluno,  
   -Para professores, permite a avaliação de desempenho segundo a BNCC e compartilhamento de experiências pelos professores
