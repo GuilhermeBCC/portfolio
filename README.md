@@ -41,15 +41,58 @@ Iniciei meu projeto principal como um Aplicativo Nativo para Android. Também in
 
 # 2018 / 2019 / 2020
 
-Projetos em Angular.
 
-Formulários Online - https://formulario-online.web.app/ https://formulario-online.web.app/admin
-Nuvem Acadêmica - https://www.nuvemacademica.com
-Nuvem Acadêmica Escolas - https://escolas.nuvemacademica.com
+## Projetos em Angular.
 
-Aplicativos Hibridos (Ionic Capacitor)
-Nuvem Acadêmica - https://play.google.com/store/apps/details?id=com.nuvemacademica
-Nuvem Acadêmica Escolas -https://play.google.com/store/apps/details?id=com.nuvemacademica.escolas
+Formulários Online - https://formulario-online.web.app/ https://formulario-online.web.app/admin 
+
+Nuvem Acadêmica - https://www.nuvemacademica.com 
+Sistema para alunos, pais e professores
+Sub projetos
+-Agenda online
+-Painel Kaban
+-Chat Message
+-Perfil rede social
+--Blog interno
+--Drive pessoal
+--Galerias de fotos
+-Gerenciamento de turmas, cursos, disciplinas.
+-Sala de aula virtual (Turma) - 
+--Fórum da turma,
+--Blog da turma
+--Messages,
+--Gerenciamento alunos, notas e presenças,
+--Sistema de envio/recebimento de tarefas (aluno e professor)
+---Texto rico online - (Word online)
+--Questionários/Provas online com controle de tempo e interação do aluno
+-Drive (Gerenciamento de arquivos online)
+-Sistema de pagamentos online
+-Sistema de gerenciamento de estudos
+--Implementação de técnicas como pomodoro
+--Controle e planejamento de disciplinas e horas estudadas
+-Sistema de controle parental - para os pais/responsáveis
+-Sistema de acompanhamento do desenvolvimento do aluno,
+--Para professores, permite a avaliação de desempenho segundo a BNCC e compartilhamento de experiências pelos professores
+
+Nuvem Acadêmica Escolas - https://escolas.nuvemacademica.com 
+Sistema para escolas
+-Sistema comuns com NA, blog, projeto, perfl,...
+-Sistema avançado de gerenciamento de pessoal (alunos e funcionários)
+-Sistema de gerenciamento de materiais e salas
+-Controle financeiro completo - com gerenciamento salárial
+-Gerenciamento de mensalidades
+-Financeiro integado com o pagseguro para recebimento de mensalidade, realização de cobranças (gincanas,passeios)
+-Sistema para Processos Seletivos - Com atualização de virada de ano com um clique (alunos novo e antigos)
+-Sistema de acesso com credenciais para tipos de usuário (Gerente, funcionário, administrador)
+-Criação de site a partir do perfil (cria um site externo com todos as informações do perfil da escola)
+-Configuração de certificados e emissão de certificados online para alunos
+-e muito mais ainda..
+
+## Aplicativos Híbridos (Ionic Capacitor)
+
+Nuvem Acadêmica - https://play.google.com/store/apps/details?id=com.nuvemacademica 
+
+Nuvem Acadêmica Escolas -https://play.google.com/store/apps/details?id=com.nuvemacademica.escolas 
 
 
 
